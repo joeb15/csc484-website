@@ -1,0 +1,9 @@
+import React from "react";
+
+const Component = (props: any) => {
+  return (<>
+    <h1>Font Size</h1>
+  </>);
+}
+
+export default Component;
